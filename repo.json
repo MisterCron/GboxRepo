@@ -3,7 +3,7 @@
     "identifier": "MisterCron",
     "sourceLinkTitle": "@atadzh",
     "sourceLinkUrl": "https://t.me/atadzh",
-	"sourceImage": "",
+	"sourceImage": "https://github.com/MisterCron/GboxRepo/raw/refs/heads/main/icon/gbox.png",
     "appCategories": [
         "- Обновления в MisterCron не выходят;"
     ],
@@ -11,18 +11,18 @@
         {
             "name": "Gbox",
             "version": "5.6.7",
-            "downloadURL": "",
+            "downloadURL": "https://github.com/MisterCron/GboxRepo/raw/refs/heads/main/ipa/gbox.ipa",
             "localizedDescription": "Приложение для подписи и установки .ipa файлов.",
             "versionDate": "2022-07-30T13:31:00+0800",
-            "iconURL": ""
+            "iconURL": "https://github.com/MisterCron/GboxRepo/raw/refs/heads/main/icon/gbox.png"
         },
         {
             "name": "ESign | Ru",
             "version": "4.5.1",
-            "downloadURL": "",
+            "downloadURL": "https://github.com/MisterCron/GboxRepo/raw/refs/heads/main/ipa/esign.ipa",
             "localizedDescription": "Приложение для подписи и установки .ipa файлов.",
             "versionDate": "2022-06-22T13:31:00+0800",
-            "iconURL": "https://ipacrack.com/wp-content/uploads/2020/09/ESign.png"
+            "iconURL": "https://github.com/MisterCron/GboxRepo/raw/refs/heads/main/icon/ESign.png"
         }     
         
        
