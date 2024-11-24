@@ -4,11 +4,11 @@
     "sourceName": "MisterCron",
     "sourceAuthor": "MisterCron",
     "sourceExportEnable": true,
-    "sourceLinkTitle": "Hi",
+    "sourceLinkTitle": "MisterCron",
     "sourceLinkUrl": "https://t.me/atadzh",
     "sourceImage": "https://github.com/MisterCron/GboxRepo/raw/refs/heads/main/icon/gbox.png",
     "sourceUpdateTime": "2024-11-24T18:30:00+0800",
-    "sourceDescription": "Hello",    
+    "sourceDescription": "Welcome to my repository",    
     "appCategories": [
         "- Обновления в MisterCron не выходят;"
     ],
@@ -18,7 +18,7 @@
             "version": "5.6.7",
             "downloadURL": "https://github.com/MisterCron/GboxRepo/raw/refs/heads/main/ipa/gbox.ipa",
             "localizedDescription": "Приложение для подписи и установки .ipa файлов.",
-            "versionDate": "2024-11-24T18:30:00+0800",
+            "versionDate": "2024-11-23T18:30:00+0800",
             "iconURL": "https://github.com/MisterCron/GboxRepo/raw/refs/heads/main/icon/gbox.png"
         },
         {
@@ -26,7 +26,7 @@
             "version": "4.5.1",
             "downloadURL": "https://github.com/MisterCron/GboxRepo/raw/refs/heads/main/ipa/esign.ipa",
             "localizedDescription": "Приложение для подписи и установки .ipa файлов.",
-            "versionDate": "2024-11-24T18:30:00+0800",
+            "versionDate": "2024-11-23T18:30:00+0800",
             "iconURL": "https://github.com/MisterCron/GboxRepo/raw/refs/heads/main/icon/ESign.png"
         }     
         
