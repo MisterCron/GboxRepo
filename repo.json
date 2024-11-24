@@ -1,9 +1,14 @@
 {
-    "name": "MisterCron",
-    "identifier": "MisterCron",
-    "sourceLinkTitle": "@atadzh",
+
+    "version": "1.0",
+    "sourceName": "MisterCron",
+    "sourceAuthor": "MisterCron",
+    "sourceExportEnable": true,
+    "sourceLinkTitle": "Hi",
     "sourceLinkUrl": "https://t.me/atadzh",
-	"sourceImage": "https://github.com/MisterCron/GboxRepo/raw/refs/heads/main/icon/gbox.png",
+    "sourceImage": "https://github.com/MisterCron/GboxRepo/raw/refs/heads/main/icon/gbox.png",
+    "sourceUpdateTime": "2024-11-24T18:30:00+0800",
+    "sourceDescription": "Hello",    
     "appCategories": [
         "- Обновления в MisterCron не выходят;"
     ],
